@@ -1,0 +1,5 @@
+.buildozer/
+bin/
+creature_save.json
+__pycache__/
+*.pyc
